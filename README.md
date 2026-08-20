@@ -39,11 +39,6 @@ Outside my day-to-day QA work, I build automation and AI systems for clients:
 ## GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jeries96&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeries96&layout=compact&hide_border=true" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeries96&hide_border=true" />
 </p>
 

@@ -17,4 +17,6 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
           config_timezone: Asia/Jerusalem
